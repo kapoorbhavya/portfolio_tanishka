@@ -1,0 +1,6 @@
+Add your images here:
+
+1. your-image.png  → Your hero portrait (transparent background PNG)
+2. your-avatar.png → Your illustrated/anime avatar for the About section
+
+Both images should be placed directly inside this `public/` folder.
